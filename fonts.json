@@ -19,12 +19,6 @@
           "style": "normal",
           "files": {
             "ttf": "https://github.com/the-moonwitch/Cozette/releases/download/v.1.30.0/CozetteVector.ttf"
-          },
-          "name": "Bold",
-          "weight": 800,
-          "style": "bold",
-          "files": {
-            "ttf": "https://github.com/the-moonwitch/Cozette/releases/download/v.1.30.0/CozetteVectorBold.ttf"
           }
         }
       ]
