@@ -1,0 +1,33 @@
+{
+  "source_info": {
+    "name": "Bitmap Font Collection",
+    "description": "Custom FontGet source by @giuricich",
+    "url": "https://github.com/giuricich/fontget-bitmap-fonts",
+    "version": "1.0.0",
+    "last_updated": "2026-03-22T20:00:00Z",
+    "total_fonts": 1
+  },
+  "fonts": {
+    "cozette": {
+      "name": "CozetteVector",
+      "family": "Cozette",
+      "license": "OFL",
+      "variants": [
+        {
+          "name": "Regular",
+          "weight": 400,
+          "style": "normal",
+          "files": {
+            "ttf": "https://github.com/the-moonwitch/Cozette/releases/download/v.1.30.0/CozetteVector.ttf"
+          },
+          "name": "Bold",
+          "weight": 800,
+          "style": "bold",
+          "files": {
+            "ttf": "https://github.com/the-moonwitch/Cozette/releases/download/v.1.30.0/CozetteVectorBold.ttf"
+          }
+        }
+      ]
+    }
+  }
+}
